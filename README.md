@@ -1,4 +1,4 @@
-# Classify-diabetes-through-health-indicators
+# Classify diabetes through health indicators
 
 
 Responsibilities: process numerical format (simple data type), entering the machine learning model 
